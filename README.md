@@ -1,6 +1,6 @@
 <!-- Logo del DOOM Slayer -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Doom_Slayer_Mark.svg" alt="DOOM Slayer Mark" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNiYzhleHYwczdqd3EzN2w1Ynp2dnlqdWpkdDd2MDhiMncwZzNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJy4FQlLbxDz4kJ6GF/giphy.gif" alt="DOOM Slayer Mark" width="200">
 </p>
 
 ---
